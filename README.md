@@ -10,11 +10,11 @@ A simple and elegant To-Do List web application built using **React**, **Vite**,
 
 🌐 Live Demo
 
-🔗 Live Project: [https://todo-list-seven-flax-23.vercel.app/]
+🔗 Live Project: [https://to-do-app-rho-black.vercel.app/]
 
-📂 GitHub Repository: [https://github.com/JainAadeesh/TODO-LIST]
+📂 GitHub Repository: [https://github.com/JainAadeesh/TO-DO_app]
 
-📹 Demo Video: [https://drive.google.com/file/d/1teTHALN80ucpnIMUSGMOD9TbFdG5toXh/view?usp=sharing]
+
 
 
 ## 🚀 Features
